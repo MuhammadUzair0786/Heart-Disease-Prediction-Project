@@ -63,11 +63,6 @@ This project aims to predict the presence of heart disease using supervised mach
 
 ---
 
-## 🚀 **How to Run**
-
-1. Clone the repository:
-```bash
-git clone https://github.com/MuhammadUzair0786/Heart-Disease-Prediction-Project.git
 
 
 
